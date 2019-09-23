@@ -54,6 +54,7 @@
                         <li><a runat="server" href="~/About">Máy cũ giá rẻ</a></li>
                         <li><a runat="server" href="~/Contact">Tin công nghệ</a></li>
                         <li><a runat="server" href="~/BookList">Sim số , thẻ cào</a></li>
+                         <li><a runat="server" href="~/ShoppingCart" ID="cartCount">&nbsp;</a></li>
                     </ul>
                 </div>
             </div>
