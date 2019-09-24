@@ -5,3 +5,6 @@
 <img src="hinhanh/đongienthoai.png">
 <p>Nếu bạn muốn thêm sản phẩm đó vào giỏ hàng của mình thì chỉ cẩn click chuột vào phần Thêm vào giỏ hàng phía bên dưới là OK </p> </br>
 <img src="https://raw.githubusercontent.com/xxxmrbenxxx/Mobile/master/hang.PNG">
+<p>Khi bạn click chọn sản phẩm thêm vào giỏ hàng thì nó sẽ hiện ra bảng như này </p>
+<img src="https://raw.githubusercontent.com/xxxmrbenxxx/Mobile/master/giohang1.PNG">
+<p>
