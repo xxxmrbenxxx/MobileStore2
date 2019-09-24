@@ -8,4 +8,6 @@
 <p>Khi bạn click chọn sản phẩm thêm vào giỏ hàng thì nó sẽ hiện ra bảng như này </p>
 <img src="https://raw.githubusercontent.com/xxxmrbenxxx/Mobile/master/giohang1.PNG">
 <p>Nếu bạn muốn hủy hàng thì chỉ cần click chọn như hình dưới</p>
-<img src="
+<img src="https://raw.githubusercontent.com/xxxmrbenxxx/Mobile/master/huyhang1.PNG">
+<p>Và bạn phải bấm chọn cập nhật giỏ hàng để được như này </p>
+<img src="https://raw.githubusercontent.com/xxxmrbenxxx/Mobile/master/capnhat.PNG">
